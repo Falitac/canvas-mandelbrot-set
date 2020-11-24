@@ -1,0 +1,20 @@
+body {
+  background-color: #000;
+  color: #eee;
+  margin: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+main {
+	padding-top: 3%;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+
+.cnv {
+  position: relative;
+}
