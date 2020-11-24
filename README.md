@@ -1,4 +1,4 @@
-# canvas-mandelbrot-set
+# JS Mandelbrot set
 
 This is a site where you can generate Mandelbrot set by giving certain parameters.
 
